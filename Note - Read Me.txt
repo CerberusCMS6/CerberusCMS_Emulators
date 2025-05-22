@@ -3,7 +3,7 @@ These video games are free to download and free to distribute, but they are copy
 Download the .zip archive packages individually and upload to your web server either through the CerberusCMS Emulators Administration Control Panel, by GIT command download / clone
 from the CerberusCMS Adminstration Control Panel or by upload by File Transfer Protocol directly to the web server directory and play them in the included Emulator Application Module.
 
-This GITHub Repository keeps ~200 H.T.M.L. 5 Canvas Video Games and ~25 H.T.M.L. 5 Unity 3D Video Games including Doom 3. Read-Only-Memory Video Games for emulated video game consoles
+This GITHub Repository keeps ~200 H.T.M.L. 5 Canvas Video Games and ~30 H.T.M.L. 5 Unity 3D Video Games including Doom 3. Read-Only-Memory Video Games for emulated video game consoles
 such as Nintendo, Super Nintendo, Nintendo Wii, SEGA GameGear, etc.. cannot be hosted on this GITHub due to legal reasons, but they can be found in different places on the Internet.
 The video games were sorted and organized on: 05/22/2025
 
