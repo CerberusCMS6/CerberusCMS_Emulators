@@ -1,5 +1,6 @@
 The authors and developers of Cerberus Content Management System did not create or develop the video games hosted in this GITHub Repository.
 These video games are free to download and free to distribute, but they are copyrighted to their respective developers and owners.
-Download the .zip archive packages individually and upload to your web server either through Emulators Control Panel, by GIT command download / clone or upload by File Transfer Protocol and play them in the included Emulator Application Module.
+Download the .zip archive packages individually and upload to your web server either through the CerberusCMS Emulators Administration Control Panel, by GIT command download / clone
+from the CerberusCMS Adminstration Control Panel or by upload by File Transfer Protocol directly to the web server directory and play them in the included Emulator Application Module.
 
-This GITHub Repository keeps ~200 H.T.M.L. 5 Canvas Video Games and ~25 H.T.M.L. 5 Unity 3D Video Games.
+This GITHub Repository keeps ~200 H.T.M.L. 5 Canvas Video Games and ~25 H.T.M.L. 5 Unity 3D Video Games including Doom 3.
