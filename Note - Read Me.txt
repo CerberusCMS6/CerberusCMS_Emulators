@@ -6,3 +6,8 @@ from the CerberusCMS Adminstration Control Panel or by upload by File Transfer P
 This GITHub Repository keeps ~200 H.T.M.L. 5 Canvas Video Games and ~25 H.T.M.L. 5 Unity 3D Video Games including Doom 3. Read-Only-Memory Video Games for emulated video game consoles
 such as Nintendo, Super Nintendo, Nintendo Wii, SEGA GameGear, etc.. cannot be hosted on this GITHub due to legal reasons, but they can be found in different places on the Internet.
 The video games were sorted and organized on: 05/22/2025
+
+These video games have not been checked for security exploits. Once after these video games are installed on the web server you must
+run CHMOD // Change-Mode on the Video_Games directory to Read-Only or "444" OCTEC permissions. Or run the CHMOD // Change-Mode from the
+Adminstration Control Panel on the Video_Games directory to guarantee that the stuff being executed from ./Applications/Video_Games/ does note
+escape the directory.
