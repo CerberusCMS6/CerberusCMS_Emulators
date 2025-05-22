@@ -1,2 +1,3 @@
-The authors and developers of Cerberus Content Management System did not create or develop the video games hosted in this GITHub Repository. These video games are free to download and free to distribute, but they are copyrighted to their respective developers and owners.
+The authors and developers of Cerberus Content Management System did not create or develop the video games hosted in this GITHub Repository.
+These video games are free to download and free to distribute, but they are copyrighted to their respective developers and owners.
 Download the .zip archive packages and upload to your web server either through Emulators Control Panel or by File Transfer Protocol and play them in the included Emulator Application Module.
