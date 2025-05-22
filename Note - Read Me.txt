@@ -11,3 +11,6 @@ These video games have not been checked for security exploits. Once after these 
 run CHMOD // Change-Mode on the Video_Games directory to Read-Only or "444" OCTEC permissions. Or run the CHMOD // Change-Mode from the
 Adminstration Control Panel on the Video_Games directory to guarantee that the stuff being executed from ./Applications/Video_Games/ does note
 escape the directory.
+
+Some files need to be extracted and then merged together in order to make the video games work. GITHub only allows up to a 25MB file on web uploads and 100 MB file upload
+through GIT terminal command.
