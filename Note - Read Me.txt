@@ -1,16 +1,21 @@
-The authors and developers of Cerberus Content Management System did not create or develop the video games hosted in this GITHub Repository.
-These video games are free to download and free to distribute, but they are copyrighted to their respective developers and owners.
-Download the .zip archive packages individually and upload to your web server either through the CerberusCMS Emulators Administration Control Panel, by GIT command download / clone
-from the CerberusCMS Adminstration Control Panel or by upload by File Transfer Protocol directly to the web server directory and play them in the included Emulator Application Module.
+The authors and developers of Cerberus Content Management System did not create or develop the video game files that are hosted in this GITHub Repository.
+These video games are free to download and free to distribute, but they are copyrighted to and owned by their respective developers. The authors and developers
+of Cerberus Content Management System wrote and devloped the Emulators Application that successfully emulates and plays Nintendo, Super Nintendo, Nintendo 64,
+Nintendo Wii, Sega Genesis, Sega Saturn, HTML5 and Unity3D video games directly from the web browser. This Emulator application is owned and copyrighted to
+(C) G.C. Gary Christopher Edwards Johnson and CerberusCMS 2000 - Present-Day.
 
-This GITHub Repository keeps ~200 H.T.M.L. 5 Canvas Video Games and ~30 H.T.M.L. 5 Unity 3D Video Games including Doom 3. Read-Only-Memory Video Games for emulated video game consoles
-such as Nintendo, Super Nintendo, Nintendo Wii, SEGA GameGear, etc.. cannot be hosted on this GITHub due to legal reasons, but they can be found in different places on the Internet.
-The video games were sorted and organized on: 05/22/2025
+Download the .zip archive packages individually from here and then upload the .zip files to your web server either through the CerberusCMS Emulators Application Module accessible by the Administration Control Panel, or by GIT command download / clone from the CerberusCMS Adminstration Control Panel' Terminal Application or by uploading the raw directories by File Transfer Protocol directly to the web server ./Applications/Video_Games/ directory itself and play them in the included Emulator Application Module.
+
+This GITHub Repository keeps ~200 H.T.M.L. 5 Canvas Video Games and ~30 H.T.M.L. 5 Unity 3D Video Games including Doom 3 and Grand Theft Auto - San Andreas.
+
+Read-Only-Memory Video Games for emulated video game consoles such as Nintendo, Super Nintendo, Nintendo Wii, SEGA GameGear, etc.. cannot be hosted on this GITHub due to legal reasons, but they can be found in different places on the Internet.
+
+These video games were sorted and organized on: 05/22/2025
 
 These video games have not been checked for security exploits. Once after these video games are installed on the web server you must
-run CHMOD // Change-Mode on the Video_Games directory to Read-Only or "444" OCTEC permissions. Or run the CHMOD // Change-Mode from the
-Adminstration Control Panel on the Video_Games directory to guarantee that the stuff being executed from ./Applications/Video_Games/ does note
-escape the directory.
+run CHMOD // Change-Mode on the Video_Games directory to Read-Only or "444" OCTEC permissions. Or run the CHMOD // Change-Mode OCTEC "444" from the
+Adminstration Control Panel on the ./Applications/Video_Games directory to guarantee that the code that is being executed from ./Applications/Video_Games/ does not
+escape the ./Applications/Video_Games directory.
 
 Some files need to be extracted and then merged together in order to make the video games work. GITHub only allows up to a 25MB file on web uploads and 100 MB file upload
-through GIT terminal command.
+through GIT terminal command and GITHub only allows up to 500MB .zip archive package file to be uploaded.
